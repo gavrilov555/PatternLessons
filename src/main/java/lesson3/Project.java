@@ -1,3 +1,5 @@
+package lesson3;
+
 public class Project implements Copyable {
 
     private int id;
@@ -44,7 +46,7 @@ public class Project implements Copyable {
 
     @Override
     public String toString() {
-        return "Project{" +
+        return "lesson3.Project{" +
                 "id=" + id +
                 ", projectName='" + projectName + '\'' +
                 ", sourceCode='" + sourceCode + '\'' +

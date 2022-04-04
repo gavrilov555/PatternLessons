@@ -1,3 +1,7 @@
+package lesson3;
+
+import lesson3.ProjectFactory;
+
 public class VersionControl {
     public static void main(String[] args) {
 
